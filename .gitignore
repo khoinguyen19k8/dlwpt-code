@@ -2,3 +2,7 @@
 tools
 *_old
 data-unversioned/
+.amlignore
+.amlignore.amltmp
+.ipynb_aml_checkpoints/
+.ipynb_checkpoints/
